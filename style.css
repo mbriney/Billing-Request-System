@@ -1,0 +1,33 @@
+#header {height:65px; width: 100%; background-color: #003366; color: white; font-size: 26px; padding-left: 20px; padding-top: 10px;}
+
+#content {width:900px; padding: 20px; background-color: white;}
+#container {background-color: white;}
+
+body {margin: 0px; background-color: #E5E5E5; font-family: Arial;}
+
+h1 {font-family: Arial; font-size: 20px;}
+
+.label {width: 150px; text-align: right; float: left; padding-right: 15px;}
+.fields {float:right; width:700px;}
+
+.fieldset, .fieldset_header {width: 100%;}
+.fieldset_header {font-weight: bold; background-color: gray;}
+
+.small {font-size: 10px;}
+
+.menuitem {padding-right: 5px; background-color: #1A4F85;font-size: 14px; padding: 7px; color: white; text-decoration: none;}
+.menuitem:hover {background-color: #1D64AD;}
+
+.phasecode {width: 250px; float: left;}
+.description {width: 400px; float: left;}
+.costs {width: 100px; float: right;}
+
+
+.heading {background-color: #f2f2f2; font-weight: bold;}
+
+
+.row {
+border-bottom: 1px solid grey;
+}
+
+tr.item:hover {background-color: yellow; cursor: pointer;}
